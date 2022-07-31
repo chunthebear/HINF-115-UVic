@@ -1,0 +1,14 @@
+This video aims to explain what Semantic HTML is and why it is important. 
+
+Semantic HTML refers to the use of HTML tags that convey meanings of their elements instead of using generic tags such as div and span. Some examples of semantic HTML tags are:
+    h1, h2, h3 elements which are the headings in descending order of importance; 
+    section element which is the thematic grouping of content, typically with a heading;
+    a which is a hyperlink;
+    strong and emphasis which are used to signify that the content within them is important;
+    and many others. More examples can be found here on the W3 schools website. 
+
+Semantic HTML is important because it allows the website to be accessible for people who use screen reader which is able to distinguish between semantic tags. It also help search engine to effectively understand the website structure for better indexing. Lastly, it improves the readability of the HTML codes which is especially beneficial for developers working in a team. 
+
+Reference: 
+https://blog.hubspot.com/website/semantic-html 
+https://www.w3schools.com/html/html5_semantic_elements.asp
